@@ -1,10 +1,13 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhhh009/shubhhh009/main/avatar.png" width="260" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNlbm9pemE4NzBuZzV2ZWR6bjhwa3hseHdpeHo3czZuOHpjenppNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" 
+       width="280" 
+       alt="Cat typing on laptop" />
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shubham-tiwari-64b4b824b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@YOUR_CHANNEL">
@@ -13,10 +16,6 @@
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 <h1 align="center">Hey there 👋 I'm Shubham Tiwari</h1>
