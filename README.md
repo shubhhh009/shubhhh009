@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/avatar.png" width="260" />
+  <img src="https://raw.githubusercontent.com/shubhhh009/shubhhh009/main/avatar.png" width="260" />
 </p>
 
 <p align="center">
