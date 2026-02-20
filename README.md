@@ -19,6 +19,11 @@
 </p>
 
 <h1 align="center">Hey there 👋 I'm Shubham Tiwari</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhhh009&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 <h3 align="center">Building products with React, Node & AI</h3>
 
 ### Tech Stack
